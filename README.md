@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chintan357.
 - 👀 Exploring Cloud, DevOps, ML, Linux, Automation & NetSec.
-- 🌱 I’m currently learning DevOps practices and Terraform. But I also do other stuff on the side to serve my future self.
-- 💞️ I’m looking to collaborate on unique and creative things. I have been passionate about teaching new things to other people for a long time.
+- 🌱 I do so many other stuff on the side to serve my future self. I don't limit myself just to one profession/domain.
+- 💞️ I love to teach. 
 - 📫 How to reach me: [Link to my LinkedIn](https://www.linkedin.com/in/chintan357/)
 
 
