@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @chintan357.
-- 👀 Exploring Cloud, DevOps, ML, Linux, Automation & NetSec.
-- 🌱 I do so many other stuff on the side to serve my future self. I don't limit myself just to one profession/domain.
+- 👀 Exploring Cloud, DevOps, Linux, Automation.
 - 💞️ I love to teach. 
 - 📫 How to reach me: [Link to my LinkedIn](https://www.linkedin.com/in/chintan357/)
 
